@@ -1,0 +1,7 @@
+create 0
+create 1
+create 2
+clear  0
+clear  2
+clear  1
+quit 0
